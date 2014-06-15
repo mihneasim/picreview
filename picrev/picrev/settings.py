@@ -39,6 +39,7 @@ INSTALLED_APPS = (
 
     'picrev',
     'south',
+    'tastypie',
 )
 
 MIDDLEWARE_CLASSES = (
